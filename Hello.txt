@@ -1,3 +1,7 @@
 hello 
 this is my second github project
 thank you
+hi 
+welcome
+ to
+GitHub
